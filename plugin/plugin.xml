@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <class>com.raltamirano.openfire.plugins.authentication.AuthenticationPlugin</class>
+
+    <name>Openfire Authentication</name>
+    <description>Plugin to allow programmatic access to the security infrastructure proposed by Openfire.</description>
+    <author>Rodrigo Altamirano</author>
+
+    <version>1.0</version>
+    <date>08/31/2013</date>
+    <url>https://github.com/raltamirano</url>
+    <minServerVersion>3.0.0</minServerVersion>
+    <licenseType>other</licenseType>
+</plugin>
